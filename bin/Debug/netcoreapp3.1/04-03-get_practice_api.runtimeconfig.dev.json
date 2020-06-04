@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/kento/.dotnet/store/|arch|/|tfm|",
+      "/Users/kento/.nuget/packages"
+    ]
+  }
+}
